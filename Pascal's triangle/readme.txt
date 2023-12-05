@@ -1,0 +1,1 @@
+This is a Pascal's triangle calculator which displays it in the terminal as a triangle. The amount of rows in the triangle is a input the user must enter. The source code is in "Pascals_triangle.py", have great coding time!
